@@ -1,0 +1,21 @@
+.nav {
+  min-height: 4svh;
+  width: 100%;
+  background-color: #A64B86;
+}
+.nav__container {
+  width: 60%;
+  margin: 0 auto;
+  background-color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100svh;
+  min-width: 100svw;
+}/*# sourceMappingURL=style.css.map */

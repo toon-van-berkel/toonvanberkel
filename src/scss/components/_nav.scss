@@ -1,0 +1,17 @@
+@import './_colors.scss';
+
+.nav {
+    min-height: 4svh;
+    width: 100%;
+
+    background-color: $primary-color;
+
+    &__container {
+        width: $primary-width;
+        margin: 0 auto;
+
+        background-color: black;
+
+        
+    }
+}
